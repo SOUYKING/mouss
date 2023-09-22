@@ -1,0 +1,6 @@
+🔶You didn't follow the setup tutorial, here is a link to it: https://mega.nz/file/3W4XCLBD#fNywFapzyKJ0-BdpdFBMSWXXKPNztQ2KdBxB-ek8j7w
+🔶Python version 3.10.8 should be installed and ADDED TO PATH as in the video
+🔶If the files names 'loader' doesn't open make sure to retry to open it 2-5 times and restarting your pc and try again.
+🔶Just user issue, factory reset to another windows
+
+•To send us an error report so that we know what causes the problem watch this video: https://mega.nz/file/GTBgzJQC#fAb4wWom9ao1470rieEV9qIBBBiQ5QvzX5prM__bN0g
